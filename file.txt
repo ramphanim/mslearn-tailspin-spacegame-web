@@ -2,3 +2,4 @@ hi
 hello
 trying again
 sucess
+auto
