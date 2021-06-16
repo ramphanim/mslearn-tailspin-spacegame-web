@@ -3,3 +3,4 @@ hello
 trying again
 sucess
 auto
+full auto
