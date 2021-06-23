@@ -6,3 +6,4 @@ auto
 full auto
 new test
 building again
+complete pipline
